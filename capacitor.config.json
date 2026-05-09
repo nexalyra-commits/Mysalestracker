@@ -1,0 +1,6 @@
+{
+  "appId": "com.builditnow.salestracker",
+  "appName": "Build It Now",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

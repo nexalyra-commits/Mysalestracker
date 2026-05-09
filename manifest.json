@@ -1,0 +1,12 @@
+{
+  "name": "Build It Now Sales Tracker",
+  "short_name": "BuildItNow",
+  "description": "Track customer sales, statuses, payments and send update summaries instantly.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#2563eb",
+  "orientation": "portrait",
+  "scope": "/",
+  "lang": "en"
+}
